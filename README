@@ -1,0 +1,5 @@
+16x2 Char LCD weather display written in python
+
+Reads weather data from BMP280 sensor and displays it on 16x2 LCD.
+by
+Hard Drill Studio
